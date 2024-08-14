@@ -3,7 +3,8 @@
 This repository contains a Power BI dashboard designed to analyze supermarket sales data. The dashboard provides interactive visualizations to gain insights into sales performance, customer demographics, and product performance.
 
 ## Project Details
-### Dataset: The dataset includes attributes such as Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, Tax, Total, Date, Time, Payment Method, COGS, Gross Margin Percentage, Gross Income, and Rating.
+### Dataset: 
+The dataset includes attributes such as Invoice ID, Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, Tax, Total, Date, Time, Payment Method, COGS, Gross Margin Percentage, Gross Income, and Rating.
 Pages: The dashboard includes the following pages:
 ### Sales Analysis by Region: 
 Visualizes sales performance across different geographic regions.
